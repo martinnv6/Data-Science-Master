@@ -1,7 +1,8 @@
-AvanceII:Nos hace falta terminar la Introducción, elresumen, el titulo, las palabras claves y el trabajo a futuro.
+Avance 1
+Taller de escritura
 
+- Objetivo principal y secundario
+- Metodologia propuesta
+- Al menos 3 articulos que mencionen la metodologia a utilizar o que se acerque
 
-Para la próxima clase es, terminar hasta lo que vimos en la presentación del día de hoy
-y comoparte inicial del avance II es:
-• Hacer una pequeña descripciónde su trabajo(Características generales) y la importancia de resolverlo.
-• Traeralmenos5palabras clave que ayuden a describir su trabajo.
+- Estructura de su metodologia descrita de manera grafica.

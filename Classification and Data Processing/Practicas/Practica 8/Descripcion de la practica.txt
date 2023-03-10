@@ -1,0 +1,7 @@
+Puede ser sobre la aplicacion de hipermarametros
+
+O bien en mi caso la justificacion de por que cambiaria de regresion (continuo) a clasificacion, en word o presentacion.
+
+Cuales son las metricas
+cual es o son los algoritmos que tomare en cuenta ahora
+y por que.

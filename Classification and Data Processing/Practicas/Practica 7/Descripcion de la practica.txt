@@ -1,0 +1,27 @@
+Utilizando los links proporcionados, aplicar un modelo de regresión y sus métricas de evaluación a sus datos. En 
+caso de que no se puedan realizar regresión por el tipo de datos, utilizar la librería de sklearn proporcionada la 
+clase anterior para utilizar una base de datos existente.
+
+Regresión linear:
+https://www.w3schools.com/python/python_ml_linear_regression.asp
+https://www.w3schools.com/python/python_ml_multiple_regression.asp
+Regresión logística:
+https://www.datacamp.com/tutorial/understanding-logistic-regressionpython
+Ridge y Lasso:
+https://www.datacamp.com/tutorial/tutorial-lasso-ridge-regression
+https://www.cienciadedatos.net/documentos/py14-ridge-lasso-elastic-netpython.html
+Neural network regression:
+https://www.analyticsvidhya.com/blog/2021/08/a-walk-through-ofregression-analysis-using-artificial-neural-networks-in-tensorflow/
+https://www.kaggle.com/code/gauravduttakiit/regression-using-artificialneural-network/notebook
+Regression tree: 
+https://data36.com/regression-tree-python-scikit-learn/
+Support vector regression:
+https://www.analyticsvidhya.com/blog/2020/03/support-vectorregression-tutorial-for-machine-learning/
+https://www.section.io/engineering-education/support-vector-regressionin-python/
+Image regression:
+https://autokeras.com/tutorial/image_regression/
+
+
+Nota: Recuerden que pueden implementar mas de 
+uno y compararlo. No es necesario que los hagan 
+todos
